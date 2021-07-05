@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="backspace" />
+    <string name="equals" />
+    <string name="point" />
+    <string name="zero" />
+    <string name="plusMinus" />
+    <string name="add" />
+    <string name="three" />
+    <string name="two" />
+    <string name="one" />
+    <string name="subtract" />
+    <string name="six" />
+    <string name="five" />
+    <string name="four" />
+    <string name="multiply" />
+    <string name="nine" />
+    <string name="eight" />
+    <string name="seven" />
+    <string name="divide" />
+    <string name="percent" />
+    <string name="parentheses" />
+    <string name="clear" />
+    <string name="fakeHint" />
+    <string name="display" />
+</resources>
