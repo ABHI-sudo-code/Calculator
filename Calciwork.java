@@ -25,8 +25,6 @@ public class Calciwork extends AppCompatActivity{
     private ImageButton backspace;
 
     private Button btnClear;
-    private Button btnPar;
-    private Button btnExponent;
     private Button btnDivide;
     private Button btnSeven;
     private Button btnEight;
@@ -40,9 +38,7 @@ public class Calciwork extends AppCompatActivity{
     private Button btnTwo;
     private Button btnThree;
     private Button btnPlus;
-    private Button btnPlus_Minus;
     private Button btnZero;
-    private Button btnDecimal;
     private Button btnEqual;
 
     @RequiresApi(api = Build.VERSION_CODES.LOLLIPOP)
